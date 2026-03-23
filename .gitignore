@@ -1,2 +1,6 @@
+*.pem
+*.key
+*.pub
+
 asdf
 asdf.pub
