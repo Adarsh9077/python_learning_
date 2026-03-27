@@ -17,6 +17,3 @@ print(name[:7]) #? name[initial_index:excluding_index]
 
 print(len(name))
 print(name[0:15:2]+" --- ")
-
-
-#!  01:30:00 

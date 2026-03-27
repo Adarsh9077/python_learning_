@@ -19,7 +19,3 @@ numList.append(9999999)
 
 print(numList)
 
-
-
-
-#? 02:06:45
