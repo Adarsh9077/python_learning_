@@ -9,4 +9,3 @@ print(len(listOfFruitsName))
 
 
 
-#! 02:18:00  
